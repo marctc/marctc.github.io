@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://marctuduri.com/code/</loc>
+    <loc>https://marctc.github.io/code/</loc>
     <lastmod>2018-07-01T21:47:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://marctuduri.com/blog/new-site-with-hugo/</loc>
+    <loc>https://marctc.github.io/blog/new-site-with-hugo/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://marctuduri.com/blog/</loc>
+    <loc>https://marctc.github.io/blog/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://marctuduri.com/categories/</loc>
+    <loc>https://marctc.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://marctuduri.com/home/</loc>
+    <loc>https://marctc.github.io/home/</loc>
   </url>
   
   <url>
-    <loc>https://marctuduri.com/license/</loc>
+    <loc>https://marctc.github.io/license/</loc>
   </url>
   
   <url>
-    <loc>https://marctuduri.com/</loc>
+    <loc>https://marctc.github.io/</loc>
     <lastmod>2018-07-01T21:47:21+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://marctuduri.com/tags/</loc>
+    <loc>https://marctc.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://marctuduri.com/tags/tags/</loc>
+    <loc>https://marctc.github.io/tags/tags/</loc>
     <lastmod>2018-07-01T21:47:21+02:00</lastmod>
     <priority>0</priority>
   </url>
