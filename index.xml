@@ -6,10 +6,19 @@
     <description>Recent content on Marc Tudurí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Jul 2018 21:47:21 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 22:52:28 +0200</lastBuildDate>
     
 	<atom:link href="https://marctuduri.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books</title>
+      <link>https://marctuduri.com/books/</link>
+      <pubDate>Sun, 08 Jul 2018 22:52:28 +0200</pubDate>
+      
+      <guid>https://marctuduri.com/books/</guid>
+      <description> Reading  Kubernetes Up &amp;amp; Running Designing Data-Intensive Applications Site Reliability Engineering Quantum Computing for Computer Scientists  Read  Designing Distributed Systems The Hacker&amp;rsquo;s Guide to Scaling Python Fundamentals of Deep Learning Clean Code Introduction to Algorithms Two Scoops of Django Test-Driven Development with Python Writing Idiomatic Python The C Programming Language Operating Systems  To Read  Distributed Systems SQL Performance Explained Python Testing with Pytest Monitoring with Prometheus Clean Architecture Hackers &amp;amp; Painters The Pragmatic Programmer Hackers: Heroes of the Computer Revolution  </description>
+    </item>
     
     <item>
       <title>Code</title>
