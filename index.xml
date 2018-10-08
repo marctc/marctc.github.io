@@ -6,10 +6,19 @@
     <description>Recent content on Marc Tudurí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Jul 2018 22:52:28 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Oct 2018 23:09:04 +0200</lastBuildDate>
     
 	<atom:link href="https://marctuduri.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Prometheus for monitoring Django applications in Kubernetes</title>
+      <link>https://marctuduri.com/blog/using-prometheus-for-monitoring-django-applications-in-kubernetes/</link>
+      <pubDate>Mon, 08 Oct 2018 23:09:04 +0200</pubDate>
+      
+      <guid>https://marctuduri.com/blog/using-prometheus-for-monitoring-django-applications-in-kubernetes/</guid>
+      <description>Django application deployment architecture Developing web applications with Django is very easy and fun: if you just follow the tutorial in a few hours you can have up and running your own website. However, deploying a Django site can be hard and you can end up running a site with a terrible performance if you don&amp;rsquo;t follow the recommended guidelines to deploy a Django site to a production environment.</description>
+    </item>
     
     <item>
       <title>Books</title>
@@ -21,15 +30,6 @@
     </item>
     
     <item>
-      <title>Code</title>
-      <link>https://marctuduri.com/code/</link>
-      <pubDate>Sun, 01 Jul 2018 21:47:21 +0200</pubDate>
-      
-      <guid>https://marctuduri.com/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>New site with Hugo</title>
       <link>https://marctuduri.com/blog/new-site-with-hugo/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
@@ -38,6 +38,16 @@
       <description>Hi,
 My old site was a little bit abandoned and hard to update so I decided to renew it.
 For this time, I decided to use a static site generator so I gave a chance to Hugo. I never tried before but I discovered that it has its own themes site which is awesome as saves you a lot of customization time. By the way, if you wonder what template I&amp;rsquo;m using is the Cocoa enhanced theme.</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>https://marctuduri.com/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marctuduri.com/code/</guid>
+      <description>I love open source and I&amp;rsquo;m a FSF member for many years so I spent some of time contributing to the open source projects either fixing bugs, changing documentation material or adding new features. Here is a collection of some projects that I contributed:
+ cookiecutter: A command-line utility that creates projects from cookiecutters (project templates)  </description>
     </item>
     
     <item>
