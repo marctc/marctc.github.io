@@ -41,16 +41,6 @@ For this time, I decided to use a static site generator so I gave a chance to Hu
     </item>
     
     <item>
-      <title>Code</title>
-      <link>https://marctuduri.com/code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marctuduri.com/code/</guid>
-      <description>I love open source and I&amp;rsquo;m a FSF member for many years so I spent some of time contributing to the open source projects either fixing bugs, changing documentation material or adding new features. Here is a collection of some projects that I contributed:
- cookiecutter: A command-line utility that creates projects from cookiecutters (project templates)  </description>
-    </item>
-    
-    <item>
       <title>Home</title>
       <link>https://marctuduri.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,15 +52,13 @@ Besides that, I&amp;rsquo;m a music nerd, audiophile and instrumental rock guita
     </item>
     
     <item>
-      <title>License</title>
-      <link>https://marctuduri.com/license/</link>
+      <title>Open Source</title>
+      <link>https://marctuduri.com/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://marctuduri.com/license/</guid>
-      <description>You can use this page to put a license on the contents of your blog, like so:
- The MIT License (MIT)
-Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+      <guid>https://marctuduri.com/code/</guid>
+      <description>I love open source so I spent some of time contributing to the open source projects either fixing bugs, improving documentation or adding new features. Here is a list of some projects that I contributed:
+DevOps Maintainer  database-controller: Database controller for Kubernetes. It allows users to provision on-demand databases for their applications by creating &amp;ldquo;Database&amp;rdquo; resources in Kubernetes. terraform-ark: Terraform module to create custom roles, service account and bucket binding for Heptio Ark disaster recovery tool.</description>
     </item>
     
   </channel>

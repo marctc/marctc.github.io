@@ -29,10 +29,6 @@
   </url>
   
   <url>
-    <loc>https://marctuduri.com/code/</loc>
-  </url>
-  
-  <url>
     <loc>https://marctuduri.com/home/</loc>
   </url>
   
@@ -40,10 +36,6 @@
     <loc>https://marctuduri.com/tags/kubernetes/</loc>
     <lastmod>2018-10-08T23:09:04+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://marctuduri.com/license/</loc>
   </url>
   
   <url>
@@ -56,6 +48,10 @@
     <loc>https://marctuduri.com/tags/monitoring/</loc>
     <lastmod>2018-10-08T23:09:04+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/code/</loc>
   </url>
   
   <url>
