@@ -15,9 +15,9 @@
 <meta property="og:site_name" content="Marc Tudurí" />
 <meta property="og:locale" content="nn_NO" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://marctuduri.com/blog/" />
-<meta property="og:title" content="Blog" />
-<meta property="twitter:title" content="Blog">
+<meta property="og:url" content="https://marctuduri.com/open-source/" />
+<meta property="og:title" content="Open Source" />
+<meta property="twitter:title" content="Open Source">
 
     <meta property="og:image" content="https://marctuduri.com/img/banner.png">
     <meta property="twitter:card" content="summary">
@@ -29,10 +29,10 @@
 <title>
 
 
-     Marc Tudurí - Blog 
+     Marc Tudurí - Open Source 
 
 </title>
-<link rel="canonical" href="https://marctuduri.com/blog/">
+<link rel="canonical" href="https://marctuduri.com/open-source/">
 
 
 <style media="screen">
@@ -1047,8 +1047,6 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
 
 
 
-  <link href="https://marctuduri.com/blog/index.xml" rel="alternate" type="application/rss+xml" title="Marc Tudurí" />
-
 
 </head>
 
@@ -1056,7 +1054,7 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
 <body>
 
 
-<div class="header header-home column">
+<div class="header column">
 
     <div class="container">
         <div class="content">
@@ -1092,36 +1090,85 @@ div.main .content .markdown pre, div.main .content .markdown pre code {
     </div>
 </div>
 
+
+
 <div class="main column">
     <div class="container">
         <div class="content">
-            <div class="posts">
-                <div class="page-heading">Blog</div>
-                <ul>
-                    
-                        <li class="groupby">Oct, 2018</li>
-                        
-                            <li class="post-item">
-    <span class="meta">Oct 8, 2018</span>
-    <a href="https://marctuduri.com/blog/using-prometheus-for-monitoring-django-applications-in-kubernetes/"><span>Using Prometheus for monitoring Django applications in Kubernetes</span></a>
-</li>
+            <div class="page-heading">
 
-                        
-                    
-                        <li class="groupby">Jul, 2018</li>
-                        
-                            <li class="post-item">
-    <span class="meta">Jul 1, 2018</span>
-    <a href="https://marctuduri.com/blog/new-site-with-hugo/"><span>New site with Hugo</span></a>
-</li>
+    Open Source
 
-                        
-                    
-                </ul>
+</div>
+
+            <div class="markdown">
+                
+    
+    
+
+<p>I love free software so I spent some of time contributing to many open source projects either fixing bugs, improving documentation or adding new features. Here is a list of some projects that I maintain or contribute.</p>
+
+<h2 id="devops">DevOps</h2>
+
+<h3 id="maintainer">Maintainer</h3>
+
+<ul>
+<li><a href="https://github.com/kubehippie/database-controller">database-controller</a>: Database controller for Kubernetes. It allows users to provision on-demand databases for their applications by creating &ldquo;Database&rdquo; resources in Kubernetes.</li>
+<li><a href="https://github.com/marctc/terraform-ark">terraform-ark</a>: Terraform module to create custom roles, service account and bucket binding for Heptio Ark disaster recovery tool.</li>
+<li><a href="https://github.com/APSL/kubernetes-charts">kubernetes-charts</a>: Helm Charts to deploy Django apps in Kubernetes.</li>
+<li><a href="https://github.com/APSL/kaneda">Kaneda</a>: Configurable Python library for metrics and events reporting.</li>
+</ul>
+
+<h3 id="contributor">Contributor</h3>
+
+<ul>
+<li><a href="https://github.com/heptio/ark/pulls?q=is%3Apr+is%3Apr+author%3Amarctc+is%3Aany">ark</a>: Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes.</li>
+<li><a href="https://github.com/discordianfish/nginx_exporter/pulls?q=is%3Apr+is%3Apr+author%3Amarctc+is%3Aany">nginx_exporter</a>:
+Simple server that scrapes nginx stats and exports them via HTTP for Prometheus consumption.</li>
+<li><a href="https://github.com/timonwong/uwsgi_exporter/pulls?q=is%3Apr+is%3Apr+author%3Amarctc+is%3Aany">uwsgi_exporter</a>: uWSGI metrics exporter for Prometheus.</li>
+<li><a href="https://github.com/spreaker/prometheus-pgbouncer-exporter/pulls?utf8=%E2%9C%93&amp;q=is%3Apr+is%3Aissue+is%3Aany+author%3Amarctc+">prometheus-pgbouncer-exporter</a>: Prometheus exporter for PgBouncer.</li>
+</ul>
+
+<h2 id="backend">Backend</h2>
+
+<h3 id="maintainer-1">Maintainer</h3>
+
+<ul>
+<li><a href="https://github.com/APSL/sauron">sauron</a>: Sauron is a Django Channels app and Micropython IoT device to monitor toilet status. More details <a href="https://www.apsl.net/blog/2017/02/12/sauron-toilet-free/">here</a>.</li>
+<li><a href="https://github.com/APSL/puput">Puput</a>: A Django blog app implemented in Wagtail.
+
+<ul>
+<li><a href="https://github.com/APSL/wordpress-to-puput/">wordpress-to-puput</a>: Import your Wordpress blog data into Puput.</li>
+<li><a href="https://github.com/APSL/blogger-to-puput/">blogger-to-puput</a>: Import your Blogger blog data into Puput.</li>
+<li><a href="https://github.com/APSL/zinnia-to-puput/">zinnia-to-puput</a>: Import your Zinnia blog data into Puput.</li>
+<li><a href="https://github.com/APSL/docker-puput/">docker-puput</a>: Docker image for Puput blog.</li>
+<li><a href="https://github.com/APSL/puput-demo/">puput-demo</a>: An example of blog Django app using Puput.</li>
+<li><a href="https://github.com/divio/divio-wagtail-puput/">divio-wagtail-puput</a>: A Divio Cloud addon to install the Wagtail Puput weblog.</li>
+</ul></li>
+</ul>
+
+<h3 id="contributor-1">Contributor</h3>
+
+<ul>
+<li><a href="https://github.com/django/django/pulls?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Apr+author%3Amarctc+is%3Aany+">Django</a>: The Web framework for perfectionists with deadlines.</li>
+<li><a href="https://github.com/wagtail/wagtail/pulls?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Apr+author%3Amarctc+is%3Aany+">Wagtail</a>: A Django content management system focused on flexibility and user experience.</li>
+<li><a href="https://github.com/django-extensions/django-extensions/pulls?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Apr+author%3Amarctc+is%3Aany+">django-extensions</a>: This is a repository for collecting global custom management extensions for the Django Framework.</li>
+<li><a href="https://github.com/carltongibson/django-filter/pull/632">django-filters</a>: A generic system for filtering Django QuerySets based on user selections.</li>
+<li><a href="https://github.com/encode/django-rest-framework/pulls?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Apr+author%3Amarctc+is%3Aany+">django-rest-framework</a>: Web APIs for Django.</li>
+<li><a href="https://github.com/dbkaplan/dry-rest-permissions/pulls?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Apr+author%3Amarctc+is%3Aany+">dry-rest-permissions</a>:
+Rules based permissions for the Django Rest Framework.</li>
+<li><a href="https://github.com/Tivix/django-rest-auth/pulls?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Apr+author%3Amarctc+is%3Aany+">django-rest-auth</a>: Django-rest-auth provides a set of REST API endpoints for Authentication and Registration.</li>
+<li><a href="https://github.com/audreyr/cookiecutter/pulls?utf8=%E2%9C%93&amp;q=is%3Aissue+is%3Apr+author%3Amarctc+is%3Aany+">cookiecutter</a>: A command-line utility that creates projects from cookiecutters (project templates).</li>
+</ul>
+
+
             </div>
         </div>
     </div>
 </div>
+
+
+
 <div class="footer column">
     <div class="container">
 

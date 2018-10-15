@@ -53,11 +53,11 @@ Besides that, I&amp;rsquo;m a music nerd, audiophile and instrumental rock guita
     
     <item>
       <title>Open Source</title>
-      <link>https://marctuduri.com/code/</link>
+      <link>https://marctuduri.com/open-source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://marctuduri.com/code/</guid>
-      <description>I love open source so I spent some of time contributing to the open source projects either fixing bugs, improving documentation or adding new features. Here is a list of some projects that I contributed:
+      <guid>https://marctuduri.com/open-source/</guid>
+      <description>I love free software so I spent some of time contributing to many open source projects either fixing bugs, improving documentation or adding new features. Here is a list of some projects that I maintain or contribute.
 DevOps Maintainer  database-controller: Database controller for Kubernetes. It allows users to provision on-demand databases for their applications by creating &amp;ldquo;Database&amp;rdquo; resources in Kubernetes. terraform-ark: Terraform module to create custom roles, service account and bucket binding for Heptio Ark disaster recovery tool.</description>
     </item>
     
