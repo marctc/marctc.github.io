@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marc Tudurí</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Marc Tudurí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Oct 2018 23:09:04 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 22:52:28 +0200</lastBuildDate>
     
 	<atom:link href="https://marctuduri.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,8 @@
       <pubDate>Mon, 08 Oct 2018 23:09:04 +0200</pubDate>
       
       <guid>https://marctuduri.com/blog/using-prometheus-for-monitoring-django-applications-in-kubernetes/</guid>
-      <description>Django application deployment architecture Developing web applications with Django is very easy and fun: if you just follow the tutorial in a few hours you can have up and running your own website. However, deploying a Django site can be hard and you can end up running a site with a terrible performance if you don&amp;rsquo;t follow the recommended guidelines to deploy a Django site to a production environment.</description>
+      <description>Django application deployment architecture Developing web applications with Django is very easy and fun: if you just follow the tutorial in a few hours you can have up and running your own website. However, deploying a Django site can be hard and you can end up running a site with a terrible performance if you don&amp;rsquo;t follow the recommended guidelines to deploy a Django site to a production environment.
+There are many options to deploy a Django application but you will finish using a WSGI (Web Server Gateway Interface) which is a Python specification that describes how a webserver communicates with web applications.</description>
     </item>
     
     <item>
@@ -26,7 +27,8 @@
       <pubDate>Sun, 08 Jul 2018 22:52:28 +0200</pubDate>
       
       <guid>https://marctuduri.com/books/</guid>
-      <description> Reading  Prometheus: Up &amp;amp; Running SRE book Monitoring with Prometheus Designing Data-Intensive Applications Quantum Computing for Computer Scientists  Read  Introducing Istio Service Mesh for Microservices Kubernetes Cookbook Kubernetes Up &amp;amp; Running Designing Distributed Systems The Hacker&amp;rsquo;s Guide to Scaling Python Fundamentals of Deep Learning Clean Code Introduction to Algorithms Two Scoops of Django Test-Driven Development with Python Writing Idiomatic Python The C Programming Language Operating Systems  To Read  Distributed Systems SQL Performance Explained Python Testing with Pytest Clean Architecture Hackers &amp;amp; Painters The Pragmatic Programmer Hackers: Heroes of the Computer Revolution  </description>
+      <description>Technical books that I&amp;rsquo;m currently reading, I already read or they are pending to read.
+Reading  Fundamentals of Software Architecture: An Engineering Approach Functional Programming in Scala Designing Data-Intensive Applications Quantum Computing for Computer Scientists  Read  Prometheus: Up &amp;amp; Running Introducing Istio Service Mesh for Microservices Kubernetes Cookbook Kubernetes Up &amp;amp; Running Designing Distributed Systems The Hacker&amp;rsquo;s Guide to Scaling Python Fundamentals of Deep Learning Clean Code Introduction to Algorithms Two Scoops of Django Test-Driven Development with Python Writing Idiomatic Python The C Programming Language Operating Systems  To Read  Clean Architecture Distributed Systems SQL Performance Explained Hackers &amp;amp; Painters The Pragmatic Programmer Hackers: Heroes of the Computer Revolution  </description>
     </item>
     
     <item>
@@ -47,7 +49,8 @@ For this time, I decided to use a static site generator so I gave a chance to Hu
       
       <guid>https://marctuduri.com/home/</guid>
       <description>Hi, I&amp;rsquo;m Marc!
-I&amp;rsquo;m a software engineer focused in backend and infrastructure systems. I like distributed systems, software architecture and data engineering. I speak mostly Python and Go. Proud FSF member for almost a decade, Open Source maintainer and technical conferences attender.
+I&amp;rsquo;m a software engineer focused in backend and infrastructure systems. I like distributed systems and software architecture. I speak mostly Python, Go and Scala. Currently, I work as a Software Engineer in SoundCloud.
+Proud FSF member for almost a decade, Open Source maintainer and technical conferences attender.
 Besides that, I&amp;rsquo;m a music nerd, audiophile and instrumental rock guitar player (Fura). I also love beer and homebrewing.</description>
     </item>
     
@@ -58,7 +61,9 @@ Besides that, I&amp;rsquo;m a music nerd, audiophile and instrumental rock guita
       
       <guid>https://marctuduri.com/open-source/</guid>
       <description>I love free software so I spent some of time contributing to many open source projects either fixing bugs, improving documentation or adding new features. Here is a list of some projects that I maintain or contribute.
-DevOps Maintainer  database-controller: Database controller for Kubernetes. It allows users to provision on-demand databases for their applications by creating &amp;ldquo;Database&amp;rdquo; resources in Kubernetes. terraform-ark: Terraform module to create custom roles, service account and bucket binding for Heptio Ark disaster recovery tool.</description>
+Backend Maintainer   periskop: Exception aggregator for micro-service environments.
+  Puput: A Django blog app implemented in Wagtail.
+ wordpress-to-puput: Import your Wordpress blog data into Puput. blogger-to-puput: Import your Blogger blog data into Puput.</description>
     </item>
     
   </channel>
