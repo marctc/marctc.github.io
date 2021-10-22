@@ -80,8 +80,7 @@ Besides that, I&amp;rsquo;m a music geek, audiophile and instrumental rock guita
       <guid>https://marctuduri.com/open-source/</guid>
       <description>I love free software so I spent some of time contributing to many open source projects either fixing bugs, improving documentation or adding new features. Here is a list of some projects that I maintain or contribute.
 Backend Maintainer   periskop: Exception aggregator for micro-service environments.
- periskop-go: Go client for Periskop. periskop-python: Python client for Periskop.    Puput: A Django blog app implemented in Wagtail.
- wordpress-to-puput: Import your Wordpress blog data into Puput.</description>
+ periskop-go: Go client for Periskop. periskop-pushgateway: Pushgateway for Periskop. periskop-python: Python client for Periskop. periskop-ruby: Ruby client for Periskop.    Puput: A Django blog app implemented in Wagtail.</description>
     </item>
     
   </channel>
