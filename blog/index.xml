@@ -6,10 +6,28 @@
     <description>Recent content in Blog on Marc Tudurí</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Oct 2018 23:09:04 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://marctuduri.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Service Architecture - Domain Gateways</title>
+      <link>https://marctuduri.com/blog/service-architecture-domain-gateways/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marctuduri.com/blog/service-architecture-domain-gateways/</guid>
+      <description>Posted in SoundCloud Backstage blog.</description>
+    </item>
+    
+    <item>
+      <title>Service Architecture - Value-Added Services</title>
+      <link>https://marctuduri.com/blog/service-architecture-value-added-services/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marctuduri.com/blog/service-architecture-value-added-services/</guid>
+      <description>Posted in SoundCloud Backstage blog.</description>
+    </item>
     
     <item>
       <title>Using Prometheus for monitoring Django applications in Kubernetes</title>

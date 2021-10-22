@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Service Architecture - Domain Gateways</title>
+      <link>https://marctuduri.com/blog/service-architecture-domain-gateways/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marctuduri.com/blog/service-architecture-domain-gateways/</guid>
+      <description>Posted in SoundCloud Backstage blog.</description>
+    </item>
+    
+    <item>
+      <title>Service Architecture - Value-Added Services</title>
+      <link>https://marctuduri.com/blog/service-architecture-value-added-services/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marctuduri.com/blog/service-architecture-value-added-services/</guid>
+      <description>Posted in SoundCloud Backstage blog.</description>
+    </item>
+    
+    <item>
       <title>Using Prometheus for monitoring Django applications in Kubernetes</title>
       <link>https://marctuduri.com/blog/using-prometheus-for-monitoring-django-applications-in-kubernetes/</link>
       <pubDate>Mon, 08 Oct 2018 23:09:04 +0200</pubDate>
@@ -28,7 +46,7 @@ There are many options to deploy a Django application but you will finish using 
       
       <guid>https://marctuduri.com/books/</guid>
       <description>Technical books that I&amp;rsquo;m currently reading, I already read or they are pending to read.
-Reading  Fundamentals of Software Architecture: An Engineering Approach Functional Programming in Scala Designing Data-Intensive Applications Quantum Computing for Computer Scientists  Read  Prometheus: Up &amp;amp; Running Introducing Istio Service Mesh for Microservices Kubernetes Cookbook Kubernetes Up &amp;amp; Running Designing Distributed Systems The Hacker&amp;rsquo;s Guide to Scaling Python Fundamentals of Deep Learning Clean Code Introduction to Algorithms Two Scoops of Django Test-Driven Development with Python Writing Idiomatic Python The C Programming Language Operating Systems  To Read  Clean Architecture Distributed Systems SQL Performance Explained Hackers &amp;amp; Painters The Pragmatic Programmer Hackers: Heroes of the Computer Revolution  </description>
+Reading  Fundamentals of Software Architecture: An Engineering Approach Staff Engineering  Read  Prometheus: Up &amp;amp; Running Introducing Istio Service Mesh for Microservices Kubernetes Cookbook Kubernetes Up &amp;amp; Running Designing Distributed Systems The Hacker&amp;rsquo;s Guide to Scaling Python Fundamentals of Deep Learning Clean Code Introduction to Algorithms Two Scoops of Django Test-Driven Development with Python Writing Idiomatic Python The C Programming Language Operating Systems  To Read  Clean Architecture Designing Data-Intensive Applications Distributed Systems SQL Performance Explained The Pragmatic Programmer  </description>
     </item>
     
     <item>
@@ -49,9 +67,9 @@ For this time, I decided to use a static site generator so I gave a chance to Hu
       
       <guid>https://marctuduri.com/home/</guid>
       <description>Hi, I&amp;rsquo;m Marc!
-I&amp;rsquo;m a software engineer focused in backend and infrastructure systems. I like distributed systems and software architecture. I speak mostly Python, Go and Scala. Currently, I work as a Software Engineer in SoundCloud.
-Proud FSF member for almost a decade, Open Source maintainer and technical conferences attender.
-Besides that, I&amp;rsquo;m a music nerd, audiophile and instrumental rock guitar player (Fura). I also love beer and homebrewing.</description>
+I&amp;rsquo;m a software engineer focused in backend and infrastructure systems. I like distributed systems, observability and software architecture. I speak mostly Python, Go and Scala. Currently, I&amp;rsquo;, based in Berlin working as a Senior Software Engineer in SoundCloud.
+FSF member for almost a decade, Open Source maintainer and technical conferences attender.
+Besides that, I&amp;rsquo;m a music geek, audiophile and instrumental rock guitar player (Fura). I also love cooking and beer brewing.</description>
     </item>
     
     <item>
