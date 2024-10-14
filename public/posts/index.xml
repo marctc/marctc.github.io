@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Tudurí</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content on Marc Tudurí</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to use Grafana Beyla in Grafana Alloy for eBPF-based auto-instrumentation</title>
+      <link>http://localhost:1313/posts/beyla-alloy/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beyla-alloy/</guid>
+      <description>&lt;p&gt;Posted in &lt;a href=&#34;https://grafana.com/blog/2024/05/21/how-to-use-grafana-beyla-in-grafana-alloy-for-ebpf-based-auto-instrumentation/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Grafana Labs blog&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Is New with Periskop in 2022</title>
+      <link>http://localhost:1313/posts/periskop/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/periskop/</guid>
+      <description>&lt;p&gt;Posted in &lt;a href=&#34;https://developers.soundcloud.com/blog/periskop-in-2022&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;SoundCloud Backstage blog&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Service Architecture - Domain Gateways</title>
+      <link>http://localhost:1313/posts/domain-gateways/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/domain-gateways/</guid>
+      <description>&lt;p&gt;Posted in &lt;a href=&#34;https://developers.soundcloud.com/blog/service-architecture-3&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;SoundCloud Backstage blog&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Service Architecture - Value-Added Services</title>
+      <link>http://localhost:1313/posts/vas/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vas/</guid>
+      <description>&lt;p&gt;Posted in &lt;a href=&#34;https://developers.soundcloud.com/blog/service-architecture-2&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;SoundCloud Backstage blog&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using Prometheus for monitoring Django applications in Kubernetes</title>
+      <link>http://localhost:1313/posts/prometheus-kubernetes-django/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/prometheus-kubernetes-django/</guid>
+      <description>&lt;h3 id=&#34;django-application-deployment-architecture&#34; class=&#34;relative group&#34;&gt;Django application deployment architecture &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#django-application-deployment-architecture&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;Developing web applications with &lt;a href=&#34;https://www.djangoproject.com/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Django&lt;/a&gt; is very easy and fun: if you just follow the &lt;a href=&#34;https://docs.djangoproject.com/en/2.1/intro/tutorial01/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;tutorial&lt;/a&gt; in a few hours you can have up and running your own website. However, deploying a Django site can be hard and you can end up running a site with a terrible performance if you don&amp;rsquo;t follow the recommended guidelines to deploy a Django site to a production environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New site with Hugo</title>
+      <link>http://localhost:1313/posts/new-site/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new-site/</guid>
+      <description>&lt;p&gt;Hi,&lt;/p&gt;&#xA;&lt;p&gt;My old site was a little bit abandoned and hard to update so I decided to renew it.&lt;/p&gt;&#xA;&lt;p&gt;For this time, I decided to use a static site generator so I gave a chance to &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Hugo&lt;/a&gt;. I never tried before but I discovered that it has its own &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;themes site&lt;/a&gt; which is awesome as saves you a lot of customization time. By the way, if you wonder what template I&amp;rsquo;m using is the &lt;a href=&#34;https://themes.gohugo.io/cocoa-eh-hugo-theme/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Cocoa enhanced theme&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
