@@ -9,8 +9,8 @@
   weight = 20
 
 [[main]]
-  name = "GrooveScribe"
-  url = "/GrooveScribe/index.html"
+  name = "Groove"
+  url = "/GrooveScribe"
   weight = 30
 
 [[main]]
