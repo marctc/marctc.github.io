@@ -1039,21 +1039,9 @@ function GrooveWriter() {
 
 	// the user has clicked on the stickings menu (at bottom)
 	root.stickingsAnchorClick = function (event) {
-
-		var contextMenu = document.getElementById("stickingsContextMenu");
-		if (contextMenu) {
-			var anchorPoint = document.getElementById("stickingsButton");
-
-			if (anchorPoint) {
-				if (!event)
-					event = window.event;
-				if (event.clientX || event.clientY) {
-					contextMenu.style.top = event.clientY - 100 + "px";
-					contextMenu.style.left = event.clientX - 150 + "px";
-				}
-			}
-			root.myGrooveUtils.showContextMenu(contextMenu);
-		}
+		// Directly toggle stickings visibility instead of showing popup
+		root.stickingsShowHideToggle();
+		return false;
 	};
 
 	// the user has clicked on the download menu (at bottom)
@@ -1533,7 +1521,7 @@ function GrooveWriter() {
 					set_hh_state(id, is_hh_on(id) ? "off" : "normal", true);
 					break;
 				case "snare":
-					set_snare_state(id, is_snare_on(id) ? "off" : "accent", true);
+					set_snare_state(id, is_snare_on(id) ? "off" : "normal", true);
 					break;
 				case "tom1":
 					set_tom_state(id, 1, is_tom_on(id, 1) ? "off" : "normal", true);
@@ -1604,7 +1592,7 @@ function GrooveWriter() {
 					set_hh_state(id, action == "off" ? "off" : "normal", true);
 					break;
 				case "snare":
-					set_snare_state(id, action == "off" ? "off" : "accent", true);
+					set_snare_state(id, action == "off" ? "off" : "normal", true);
 					break;
 				case "kick":
 					set_kick_state(id, action == "off" ? "off" : "normal", true);
