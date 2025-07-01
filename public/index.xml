@@ -6,8 +6,15 @@
     <description>Recent content in Home on Marc Tudurí</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New template for the site</title>
+      <link>http://localhost:1313/posts/new-template/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new-template/</guid>
+      <description>&lt;p&gt;For a long time I wanted to update my bio, I joined Grafana 2 years ago and I didn&amp;rsquo;t update yet&amp;hellip;&lt;em&gt;Good Ol&amp;rsquo; Obsolescence&lt;/em&gt; made the current version of Hugo be incompatible with the previous theme, so I had to update it.&lt;/p&gt;&#xA;&lt;p&gt;This time I used &lt;a href=&#34;https://github.com/jpanther/congo&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;congo&lt;/a&gt; which has some nice features like dark mode. I also added a GitHub action to deploy the site to GitHub pages. Before I had two different repos, one for the source code and another for the generated site.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to use Grafana Beyla in Grafana Alloy for eBPF-based auto-instrumentation</title>
       <link>http://localhost:1313/posts/beyla-alloy/</link>
